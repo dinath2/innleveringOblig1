@@ -36,6 +36,7 @@ namespace familyTree
                 {
                     decription += person.GetDescription() + "\n"; 
                 }
+                return decription;
                     
             }
 
